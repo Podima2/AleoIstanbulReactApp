@@ -1,5 +1,9 @@
 # React + Aleo + Leo
 
+<img src="Assets/Screenshot 2023-11-15 at 14.37.30.png">
+
+<img src="Assets/Screenshot 2023-11-15 at 14.36.53.png">
+
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/AleoHQ/sdk/tree/testnet3/create-aleo-app/template-react)
 
 This template provides a minimal setup to get React and Aleo working in Vite
